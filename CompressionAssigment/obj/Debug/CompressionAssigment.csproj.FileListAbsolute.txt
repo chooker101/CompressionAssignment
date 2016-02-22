@@ -1,1 +1,8 @@
 C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\bin\Debug\CompressionAssigment.exe.config
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\bin\Debug\CompressionAssigment.exe
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\bin\Debug\CompressionAssigment.pdb
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\obj\Debug\CompressionAssigment.csprojResolveAssemblyReference.cache
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\obj\Debug\CompressionAssigment.Properties.Resources.resources
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\obj\Debug\CompressionAssigment.csproj.GenerateResource.Cache
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\obj\Debug\CompressionAssigment.exe
+C:\Users\Carsten\Desktop\CompressionAssigment\CompressionAssigment\obj\Debug\CompressionAssigment.pdb

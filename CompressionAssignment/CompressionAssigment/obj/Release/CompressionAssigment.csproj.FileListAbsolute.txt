@@ -1,0 +1,12 @@
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\bin\Release\CompressionAssigment.exe.config
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\bin\Release\CompressionAssigment.exe
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\bin\Release\CompressionAssigment.pdb
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.csprojResolveAssemblyReference.cache
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.Properties.Resources.resources
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.csproj.GenerateResource.Cache
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.exe
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.pdb
+C:\Users\Carsten\Desktop\HOME\CompressionAssignment-master\CompressionAssigment\bin\Release\CompressionAssigment.exe.config
+C:\Users\Carsten\Desktop\HOME\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.exe
+C:\Users\Carsten\Desktop\HOME\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.pdb
+C:\Users\Carsten\Desktop\CompressionAssignment-master\CompressionAssigment\obj\Release\CompressionAssigment.CarstensZipper.resources
